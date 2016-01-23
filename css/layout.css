@@ -84,6 +84,16 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: left; }
+ .D {
+  font-size: 8em;
+  font-family: 'Patua One';
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  text-align: left; }
 
 .small {
   font-size: em !important; }
